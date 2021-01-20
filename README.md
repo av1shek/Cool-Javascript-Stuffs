@@ -1,2 +1,2 @@
 # Cool Javascript Stuffs
-This repositry contains some of javascript site that I created to during learning javascript.
+This repositry contains some static pages I created to during learning javascript.
