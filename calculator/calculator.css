@@ -4,7 +4,7 @@
 }
 .container{
     text-align: center;
-    width: 100%;
+    width: 100%; !important;
 }
 .calculatorBody{
     padding: 5px;
